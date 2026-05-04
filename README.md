@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react) ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript) ![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo) ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm)
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react" alt="React"/> <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook" alt="Storybook"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript" alt="TypeScript"/> <img src="https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo" alt="Turborepo"/> <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm" alt="NPM"/>
 </p>
 
 ## Overview
