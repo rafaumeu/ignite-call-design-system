@@ -48,6 +48,6 @@ MIT
 </div>
 
 <p align="center">
-  [![Use this template](https://img.shields.io/badge/Use_This_Template-FFCA28?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafaumeu/ignite-call-design-system/generate)
+  [<img alt="Use this template" src="https://img.shields.io/badge/Use_This_Template-FFCA28?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/rafaumeu/ignite-call-design-system/generate)
 </p>
 
