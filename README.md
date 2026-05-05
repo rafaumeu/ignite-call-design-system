@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF0080&height=150&section=header&text=Design%20System&fontSize=35&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=React%20Component%20Library%20—%20Monorepo&descSize=16&descAlignY=52"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFCA28&height=150&section=header&text=Design%20System&fontSize=35&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=React%20Component%20Library%20—%20Monorepo&descSize=16&descAlignY=52"/>
 </div>
 
 <p align="center">
@@ -43,11 +43,11 @@ npm run storybook
 MIT
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF0080&height=100&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFCA28&height=100&section=footer"/>
   <br/><sub>Built with ❤️ by <a href="https://github.com/rafaumeu">Rafael Zendron</a></sub>
 </div>
 
 <p align="center">
-  [![Use this template](https://img.shields.io/badge/Use_This_Template-FF0080?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafaumeu/ignite-call-design-system/generate)
+  [![Use this template](https://img.shields.io/badge/Use_This_Template-FFCA28?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafaumeu/ignite-call-design-system/generate)
 </p>
 
